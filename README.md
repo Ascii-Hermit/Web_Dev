@@ -1,2 +1,1 @@
-# Coursera_webdev
-Coursera Practice Repo
+Practice Repo for WebDev
